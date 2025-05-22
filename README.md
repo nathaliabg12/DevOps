@@ -39,5 +39,6 @@ Ambas as versões compartilham o mesmo banco de dados MongoDB, permitindo que as
 - No terminal: docker exec -it terminal python ./main.py
 
 
+![image](https://github.com/user-attachments/assets/628d2282-9cd0-4d49-b8e1-d132eecf67f4)
 
 
