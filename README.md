@@ -33,7 +33,7 @@ Ambas as versões compartilham o mesmo banco de dados MongoDB, permitindo que as
 - Para a versão web: Maven, caso precise reconstruir o WAR
 ## Passos:
 - Se necessaŕio reconstruir o WAR, no diretório students-web executar o comando mvn clean package
-- Para iniciar todos os containers, executar na pasta Estudantes, docker-compose up –build
+- Para iniciar todos os containers, executar na pasta Estudantes, docker-compose up –d
 - Acessar as interfaces:
 - Na web: http://localhost:8080/students/students
 - No terminal: docker exec -it terminal python ./main.py
